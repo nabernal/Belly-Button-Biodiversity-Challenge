@@ -1,0 +1,16 @@
+body {
+    font-family: Lucida Console;
+    color: rgb(232, 193, 154);
+    background-color: rgb(196, 212, 160);
+  }
+
+
+.jumbotron {
+    background-image: url("bacteria.jpg");
+    background-size: 50% 100%;
+    text-align: center;
+    border:2px solid #000000;
+    width: 1315px;
+    font-family: Lucida Console;
+  }
+  /* hsl(0, 67%, 72%) */
